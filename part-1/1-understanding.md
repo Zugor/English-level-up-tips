@@ -5,7 +5,7 @@ Bài viết này nói về một số bài tập về nhà bạn nên làm trư�
 ## Tại sao nên học tốt tiếng Anh
 
 Trước hết, chúng ta nên hiểu rằng **Tiếng Anh** là một ngôn ngữ được **sử dụng rộng rãi**. Việc sử dụng rộng rãi của nó có thể thấy qua cấu trúc người dùng của Wikipedia:
-![https://upload.wikimedia.org/wikipedia/commons/a/ae/WebsiteContentLanguages.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WebsiteContentLanguages.svg/2000px -WebsiteContentLanguages.svg.png)
+![https://upload.wikimedia.org/wikipedia/commons/a/ae/WebsiteContentLanguages.svg](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/WebsiteContentLanguages.svg/2000px-WebsiteContentLanguages.svg.png)
 Tiếng Anh là ngôn ngữ được sử dụng rộng rãi nhất trên thế giới, bao trùm mọi khía cạnh của cuộc sống con người.
 Dù là trao đổi thông tin đơn giản hay những cuốn sách, tài liệu khắt khe thì tiếng Anh đều chiếm tỷ lệ lớn.
 Học tốt tiếng Anh giống như mở ra cánh cửa đến một thế giới mới, bạn không còn bị giới hạn ở các kênh tiếp nhận thông tin ban đầu mà có thể xem được nhiều nội dung phong phú hơn thế giới Trung Quốc.
