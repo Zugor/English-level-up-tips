@@ -1,68 +1,68 @@
-# 阅读篇
+# Reading
 
-## 精读与泛读
+## Đọc chuyên sâu và đọc mở rộng
 
-短小精悍的文章适合精读，如：经济学人；
-类似经济学人的一篇文章，如果不精读的话只能窥见其冰山一角，文章精心的布局、隐含的言外之意、作者犀利的观点是很难领会到的。
-精读更像是赏析，多查字典，反复阅读，推敲作者的意图，慢慢积累，养成品味佳作的好习惯。
+Các bài viết ngắn gọn, súc tích thích hợp cho việc đọc chuyên sâu như: The Economist;
+Giống như một bài báo trên tờ The Economist, nếu không đọc kỹ, bạn chỉ có thể nhìn thoáng qua phần nổi của tảng băng chìm, khó có thể hiểu được bố cục cẩn thận của bài viết, hàm ý ẩn ý và sự sắc bén của tác giả. của quan điểm.
+Đọc chuyên sâu giống như đánh giá cao, tra từ điển thường xuyên hơn, đọc đi đọc lại, xem xét ý định của tác giả, tích lũy từ từ và hình thành thói quen tốt đánh giá tác phẩm xuất sắc.
 
-优美经典的小说适合泛读，如：动物庄园；
-阅读这类小说的时候更多的是享受，我经常被一本书开头的几句话给迷住，作者优美的文笔，总会令人兴趣大增。
-不需要制定计划，不需要催促自己赶快读完一本书，随兴所致，细细品味，尽情享受。
-读英文原著的时候需要一步步来，一上来就啃《冰与火之歌》这种，即使兴趣浓厚，也难免被其中大量的生词干扰到最终看不下去。
+Những cuốn tiểu thuyết hay, cổ điển thích hợp để đọc nhiều như: Trại súc vật;
+Đọc thể loại tiểu thuyết này thiên về thích thú, tôi thường bị mê hoặc bởi vài câu đầu tiên của cuốn sách, lối hành văn đẹp đẽ của tác giả luôn khiến người ta thích thú hơn.
+Không cần phải lập kế hoạch, không cần phải vội vã đọc xong một cuốn sách, chỉ cần làm theo tâm trạng, thưởng thức và tận hưởng nó.
+Khi đọc tiểu thuyết gốc tiếng Anh, bạn cần thực hiện từng bước một, bắt đầu từ "A Song of Ice and Fire", dù rất hứng thú nhưng chắc chắn bạn sẽ bị quấy rầy bởi số lượng lớn từ mới và cuối cùng không thể đọc được. để đọc nó.
 
-## 英文原版书推荐
+## Sách gốc tiếng Anh được đề xuất
 
-为了帮助大家入门，结合我平时参考较多的几个Youtube上的英语学习频道，挑选了6个不同阅读水平的英文书：
+Để giúp bạn bắt đầu, tôi đã chọn ra 6 cuốn sách tiếng Anh với các cấp độ đọc khác nhau dựa trên một số kênh học tiếng Anh trên Youtube mà tôi thường tham khảo:
 
-- [《Animal Farm》/《动物庄园》 by [英] 乔治·奥威尔 ](https://book.douban.com/subject/10956502/)
+- [《Animal Farm》/ by [English] George Orwell ](https://book.douban.com/subject/10956502/)
 
-    《动物庄园》是乔治•奥威尔的著名反乌托邦寓言小说，自1945年首次出版以来流传甚广，被翻译成多种语言，改编成电影、话剧等，引起很大反响。本书被公认为20世纪最杰出的政治寓言，并被欧美15所名牌大学学生投票选为“影响我成长的十部作品”之一。本书讲述了一场“动物主义”革命酝酿、兴起和最终蜕变的故事：一群农庄中的动物不堪人类压迫，奋起反抗并建立自己的家园，然而这场革命最终由于领导者猪们的腐化独裁和动物们的愚昧盲从而变质，农庄再度恢复为不平等的专制社会。
+    "Animal Farm" là cuốn tiểu thuyết ngụ ngôn đen tối nổi tiếng của George Orwell, được lưu truyền rộng rãi kể từ khi xuất bản lần đầu vào năm 1945. Nó đã được dịch ra nhiều thứ tiếng, chuyển thể thành phim, kịch, v.v. và gây được tiếng vang lớn. Cuốn sách này được công nhận là câu chuyện ngụ ngôn chính trị nổi bật nhất thế kỷ 20 và được sinh viên từ 15 trường đại học danh tiếng châu Âu và Mỹ bình chọn là một trong “Mười tác phẩm ảnh hưởng đến sự trưởng thành của tôi”. Cuốn sách này kể về quá trình hình thành, trỗi dậy và biến đổi cuối cùng của một cuộc cách mạng “động vật”: một nhóm động vật trong trang trại không thể chịu đựng được sự áp bức của con người, đã vùng lên chống lại và xây dựng tổ ấm cho riêng mình. đến chế độ độc tài tham nhũng của những kẻ lãnh đạo, những con lợn, và sự ngu dốt và mù quáng của loài vật ngày càng xấu đi, trang trại một lần nữa trở lại với một xã hội bất bình đẳng và độc tài.
 - [《The Curious Incident of the Dog in the Night-time》 by Mark Haddon ](https://book.douban.com/subject/23546652/)
 
-    搬一段来自豆瓣的用户评价：《The curious incident of the dog in the night-time》最独特的地方便是这非常特别的叙事声音(narrative voice)。克里斯托夫的逻辑是绝对数学性的，且贯穿于小说始终。比如，克里斯托夫是如何判断“这只狗很可能是被钉耙刺死的”呢？——那是因为“我没有在狗身上看见其它伤口，而且我觉得人们在一只因其他原因——比如癌症、或者交通事故——死去的狗上再插上一个钉耙的可能性不大。但对此我也不能十分确定。”如此这般缜密的逻辑推理，正是这本小说最大的驱动力。
+    Trích đánh giá của người dùng trên Douban: Điều độc đáo nhất ở “The curious incident of the dog in the night-time” chính là giọng kể chuyện rất đặc biệt này.(narrative voice)。Logic của Kristof hoàn toàn mang tính toán học và hiện diện xuyên suốt cuốn tiểu thuyết. Ví dụ, làm thế nào Christoph xác định được “con chó có lẽ đã bị dùng cào đâm chết”? -- đó là bởi vì "Tôi không thấy vết thương nào khác trên con chó, và tôi nghĩ khó có khả năng ai đó dùng cào vào một con chó chết vì những nguyên nhân khác, chẳng hạn như ung thư hay tai nạn giao thông." Nhưng tôi tôi không hoàn toàn chắc chắn về điều này." Lý luận logic chặt chẽ như vậy chính là động lực lớn nhất của cuốn tiểu thuyết này.
 - [《The Diary of a Young Girl》 by Anne Frank ](https://book.douban.com/subject/1341074/)
 
-    二战题材的故事有很多，在特别的年代，总会发生一些令人感动到无法自己的故事，而安妮日记正是其中的代表。为了逃脱纳粹的狂虐屠杀，一家人躲在一个阁楼里，然后来避难的人逐渐增多，让anne‘s family 变得越来越有趣。在这里有特别的生存规则，每天固定的时间做固定的事，像监狱里一般的作息，内心却是有着更甚的煎熬。这种煎熬是周旋于生与死之间，希望与绝望，一年之间，只是一阵小小的动静，或许就提前敲响了死亡的钟声。
-    安妮的表达能力让人赞叹,是阅读进阶很不错的读本。
-- [《Harry Potter series》/ 《哈利波特系列》by J·K·Rowling ](https://book.douban.com/subject/1340758/)
+    Có rất nhiều câu chuyện về chủ đề Thế chiến thứ 2, trong những thời điểm đặc biệt, sẽ luôn có những câu chuyện cảm động đến mức bạn không thể kìm lòng được, và Nhật ký của Anne chính là một trong số đó. Để thoát khỏi cuộc thảm sát dã man của Đức Quốc xã, gia đình Anne đã trốn trên một căn gác xép, sau đó số người đến tị nạn ngày càng tăng khiến gia đình Anne ngày càng trở nên thú vị. Ở đây có những quy tắc đặc biệt để sinh tồn, bạn làm những việc cố định vào một thời điểm cố định mỗi ngày, giống như một thói quen giống như nhà tù, nhưng bên trong lại càng đau khổ hơn. Loại đau khổ này giằng xé giữa sự sống và cái chết, hy vọng và tuyệt vọng, trong một năm, chỉ một cử động nhỏ cũng có thể rung chuông báo tử.
+     Khả năng diễn đạt của Anne thật đáng kinh ngạc và đây là một cuốn sách rất hay dành cho việc đọc nâng cao.
+- [《Harry Potter series》/ by J·K·Rowling ](https://book.douban.com/subject/1340758/)
 
-    大名鼎鼎的哈利波特系列就不需要多做介绍了，这套书被很多人推荐，希望你不要有抵触流行小说的心理，跟着R姨优美的文字打开这扇魔法之门吧。
-- [《The Kite Runner》 / 《追风筝的人》 by Khaled Hosseini ](https://book.douban.com/subject/1772158/)
+    Bộ truyện Harry Potter nổi tiếng không cần giới thiệu, bộ sách này đã được nhiều người giới thiệu, hy vọng các bạn sẽ không cưỡng lại những cuốn tiểu thuyết nổi tiếng và làm theo lời hay ý đẹp của dì R để mở ra cánh cửa thần kỳ này.
+- [《The Kite Runner》 / "người thả diều" by Khaled Hosseini ](https://book.douban.com/subject/1772158/)
 
-    《The Kite Runner(追风筝的人)》是阿富汗作家 卡勒德·胡赛尼 的处女作，霸占了美国两大权威畅销书排行榜《纽约时报》排行榜、《出版商周刊》排行榜长达80余周，声势超过红透全世界的丹·布朗的《达·芬奇密码》。 
-    这本小说太令人震撼，很长一段时日，让我所读的一切都相形失色。文学与生活中的所有重要主题，都交织在这部惊世之作里：爱、恐惧、愧疚、赎罪……——著名作家伊莎贝拉·阿连德
+    《The Kite Runner(người thả diều)》Đây là cuốn tiểu thuyết đầu tay của nhà văn Afghanistan Khaled Hosseini, đã thống trị hai danh sách bán chạy nhất ở Hoa Kỳ là danh sách "New York Times" và danh sách "Publishers Weekly" trong hơn 80 tuần. Nó được yêu thích hơn cả. cuốn "Mật mã Da Vinci" nổi tiếng thế giới của Dan Brown.
+     Cuốn tiểu thuyết này gây sốc đến mức trong một thời gian dài nó đã che mờ mọi thứ tôi đã đọc. Tất cả các chủ đề quan trọng trong văn học và cuộc sống đều đan xen trong tác phẩm tuyệt đẹp này: tình yêu, nỗi sợ hãi, cảm giác tội lỗi, sự chuộc tội... - nhà văn nổi tiếng Isabella Allende
 - [《on writing well》by  William Zinsser ](https://book.douban.com/subject/4740002/)
 
-    On Writing Well是一本指导英文写作的书，同时也是阅读的极佳材料，作者非常真诚地把写作当作一名手艺教给我们。观点步骤一清二楚。
-    这本书是这套推荐中需要精读的书，所以我把它放在了最后。
+    On Writing Well Đây là cuốn sách hướng dẫn viết tiếng Anh và cũng là tài liệu đọc rất hay, tác giả rất chân thành dạy chúng ta viết như một nghề. Các bước quan điểm rõ ràng.
+     Cuốn sách này là cuốn cần được đọc kỹ trong bộ khuyến nghị này nên tôi đặt nó ở cuối.
 
->在阅读英文原著前，如果看过中文译本，也有挺大的帮助。
+>Trước khi đọc bản gốc tiếng Anh, bạn nên đọc bản dịch tiếng Trung cũng sẽ giúp ích rất nhiều.
 
-## 微信公众号
-由于本人使用微信的频次极低，关注的公众号也是个位数，在这里只推荐两个我自己看过的：
-- 英文悦读
-- 独霸上海的妖怪
->如果您有想要推荐的公众号请提交issue，我会在阅读后添加到本章节
+## Tài khoản công khai WeChat
+Vì tôi rất hiếm khi sử dụng WeChat và số lượng tài khoản công khai mà tôi theo dõi chỉ ở một con số, nên tôi chỉ đề xuất hai tài khoản mà tôi đã thấy:
+- Thích đọc sách bằng tiếng Anh
+- Con quái vật thống trị Thượng Hải
+>Nếu bạn có một tài khoản công khai mà bạn muốn giới thiệu, vui lòng gửi một vấn đề và tôi sẽ thêm nó vào chương này sau khi đọc nó.
 
-## 英文文档怎么读
-在阅读英文文档的时候，难免会遇到一些生词，当生词量大概达到5个以上的时候，这个时候就需要我们先停下了，如果不先掌握这部分生词，对之后的章节会造成巨大的影响也是非请把这些生词记录下来，一个个查，先努力记住这部分单词。
-专业词汇，一定要仔细看，释义，例子都要看，在看的不是很懂的情况下，还要查询中文方面的信息（比如大神写的blog）。
-如果你使用一些工具，将一份文档中的生词根据一定的规则提前筛选出来，先学习一下生词，再阅读的话，那会是很棒的。
->kindle上阅读PDF类的技术文档不是太合适，字体过小的情况会特别伤眼，推荐使用iPad看PDF
+##Cách đọc tài liệu tiếng Anh
+Khi đọc tài liệu tiếng Anh, không thể tránh khỏi việc gặp phải một số từ mới, khi số lượng từ mới đạt khoảng 5 từ trở lên thì chúng ta cần dừng lại tại thời điểm này, nếu trước tiên chúng ta không nắm vững những từ mới này sẽ có Tác động rất lớn đến các chương tiếp theo. Tác động cũng rất quan trọng, các bạn hãy ghi lại những từ mới này, kiểm tra từng từ một và cố gắng ghi nhớ những từ này trước.
+Đối với từ vựng chuyên môn, bạn phải đọc kỹ, bao gồm cả định nghĩa và ví dụ, nếu không hiểu rõ lắm, bạn cũng nên tra cứu thông tin tiếng Trung (chẳng hạn như các blog do các chuyên gia lớn viết).
+Sẽ thật tuyệt nếu bạn sử dụng một số công cụ để lọc trước các từ mới trong tài liệu theo những quy tắc nhất định và học từ mới trước rồi mới đọc.
+>Đọc tài liệu kỹ thuật PDF trên Kindle không phù hợp lắm, nếu cỡ chữ quá nhỏ sẽ đặc biệt có hại cho mắt, nên sử dụng iPad để đọc PDF.
 
-## Medium、Quora、Reddit、Hacker News与StackOverFlow
-- [Medium](https://www.medium.com)上有很多非常棒的文章，我经常去翻阅大神写的技术、设计方面的文章，也有很多关于生活，可以帮助自己发散思维，改善自己生活、提高执行效率的好文。
+## Medium、Quora、Reddit、Hacker News và StackOverFlow
+- [Medium](https://www.medium.com)Trên Internet có rất nhiều bài viết hay, tôi thường đọc những bài viết về công nghệ và thiết kế của các bậc thầy vĩ đại, cũng có rất nhiều bài viết hay về cuộc sống có thể giúp tôi lan tỏa tư duy, cải thiện cuộc sống, nâng cao hiệu quả thực thi.
 
-- [Quora](https://www.quora.com)是一个问答社区（世界版的知乎），我在 top stories 栏目下经常看到感人至深的回答，常常泪目。这里应该是你常逛的地方。
+- [Quora](https://www.quora.com)Là cộng đồng hỏi đáp (Zhihu phiên bản thế giới), mình thường thấy những câu trả lời cảm động ở chuyên mục truyện top và hay khóc. Đây chắc hẳn là nơi bạn thường xuyên ghé thăm.
 
-- [Reddit](https://www.reddit.com) 号称是互联网的Front Page，新鲜事、八卦应有尽有
+- [Reddit](https://www.reddit.com) Nó được biết đến như là Trang nhất của Internet, với tất cả những tin tức và tin đồn mới nhất.
 
-- [Hacker News](https://news.ycombinator.com/) Hacker News是互联网人不能错过的资讯站
+- [Hacker News](https://news.ycombinator.com/) Hacker News là một trang thông tin mà người dùng Internet không thể bỏ lỡ.
 
-- [Stack Overflow](https://www.stackoverflow.com/) 是解决技术问题的绝佳去处
+- [Stack Overflow](https://www.stackoverflow.com/) Một nơi tuyệt vời để giải quyết các vấn đề kỹ thuật
 
-## 推荐的参考书
-[![英语阅读参考手册](https://img3.doubanio.com/lpic/s4241556.jpg)](https://book.douban.com/subject/4720475/)
+## Sách tham khảo được đề xuất
+[![Tài liệu tham khảo đọc tiếng Anh](https://img3.doubanio.com/lpic/s4241556.jpg)](https://book.douban.com/subject/4720475/)
 
-下一篇：[口语篇](5-speaking.md)
+Kế tiếp：[Speaking](5-speaking.md)
