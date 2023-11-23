@@ -171,7 +171,7 @@ Chúng ta có thể coi đặc điểm này là “kế thừa” và “đa hì
 
 Liên kết: https://pan.baidu.com/s/1i5OLIIT Mật khẩu: jm4k
 
-Vì gói thẻ trên đã được sản xuất từ lâu nên sẽ xuất hiện trên một số nền tảng di động [#76](https://github.com/byoungd/English-level-up-tips-for- Chinese/issues/76) sẽ xảy ra trên một số gói thẻ. nền tảng di động. Bản cập nhật như sau:
+Vì gói thẻ trên đã được sản xuất từ lâu nên sẽ xuất hiện trên một số nền tảng di động [#76](https://github.com/byoungd/English-level-up-tips-for-Chinese/issues/76) sẽ xảy ra trên một số gói thẻ. nền tảng di động. Bản cập nhật như sau:
 
 - Sửa đổi kiểu thẻ từ, giảm cỡ chữ, điều chỉnh thứ tự các ô đáp án ở mặt sau, v.v. để thích ứng với ứng dụng di động
 - Ngoại tuyến tất cả hình ảnh và các tài nguyên khác thông qua plugin [Bản địa hóa phương tiện](https://ankiweb.net/shared/info/1293255374).
@@ -181,8 +181,8 @@ Vì gói thẻ trên đã được sản xuất từ lâu nên sẽ xuất hiệ
 
 ## Sách từ vựng được đề xuất
 - [![Sổ tay sử dụng các từ tiếng Anh thông dụng khó](https://img1.doubanio.com/lpic/s6207668.jpg)](https://book.douban.com/subject/5038844/)
-- [![Thành thạo từ vựng GRE trong 17 ngày](https://img3.doubanio.com/lpic/s5759730.jpg)](https://book.douban.com/subject/1803504/)
-- [![Merriam-Webster's Vocabulary Builder](https://img3.doubanio.com/lpic/s4339900.jpg)](https://book.douban.com/subject/4759840/)
+- [![Thành thạo từ vựng GRE trong 17 ngày](https://img1.doubanio.com/view/subject/s/public/s5759730.jpg)](https://book.douban.com/subject/1803504/)
+- [![Merriam-Webster's Vocabulary Builder](https://img1.doubanio.com/view/subject/s/public/s4339900.jpg)](https://book.douban.com/subject/4759840/)
   
    Cuốn sách này phù hợp với những người có nền tảng từ vựng nhất định (khoảng 7.000), cũng là cuốn từ vựng được khuyên dùng thường xuyên khi luyện thi TOEFL và GRE, thường được gọi là Webster's Little Green Book.
    Trong suy nghĩ của nhiều người, Webster's Little Green Book tưởng chừng như là một cuốn sách ghi nhớ các phụ tố gốc, nhưng giá trị thực sự của cuốn sách này không nằm ở chỗ.
